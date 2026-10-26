@@ -1,0 +1,16 @@
+body{
+ background-color:yellow;
+ 
+ }
+h1{
+  color:black;
+  font-family:georgia;
+  }
+p{
+   color:red;
+   font-family:arial;
+   font-size:14px;
+}
+img{
+  border:2px soild:white;
+  }
